@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lightninGod100
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in Building things & Solving Problems.
+- 🌱 I’m currently upskilling myself.
 
 <!---
 YourExLol/YourExLol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
