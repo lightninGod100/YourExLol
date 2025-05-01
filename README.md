@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YourExLol
+- 👋 Hi, I’m @lightninGod100
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning DSA
 
